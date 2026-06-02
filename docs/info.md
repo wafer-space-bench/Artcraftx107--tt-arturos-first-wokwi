@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Its just a very simple 7-segment encoder, after putting in the code 201 in binary as the inputs, the encoder segments will light up and make an "A", my initial. 
+Its just a very simple 7-segment display, after putting in the code 201 in binary as the inputs, the display segments will light up and make an "A", my initial. 
 
 ## How to test
 
