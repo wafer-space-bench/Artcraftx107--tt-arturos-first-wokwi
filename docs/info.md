@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Its just a very simple 7-segment encoder, after putting in the code 201 in binary as the inputs, the encoder segments will light up and make an "A", my initial. 
 
 ## How to test
 
-Explain how to use your project
+Just run it, adjust the inputs if needed. 
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Nothing (I think xd)
