@@ -1,0 +1,26 @@
+source:
+  url: https://github.com/Artcraftx107/tt-arturos-first-wokwi
+  original_url: null
+  kind: fork
+  why: GitHub fork of the upstream repository
+  licence: null
+  upstream_default_branch: main
+tapeouts:
+- org: tinytapeout
+  run: ttgf26a
+  slot: tt_um_wokwi_465731371445677057
+  project: Arturo's first Wokwi design
+  size: 1x1
+  kind: digital (Wokwi)
+  commit: d94f075c9d75f402d78389eb41cfa5ac07ad10bb
+  commit_source: commit from the shuttle repo's projects/<name>/commit_id.json
+  tag: tinytapeout/ttgf26a/tt_um_wokwi_465731371445677057
+  branch: tapeout/tinytapeout/ttgf26a/tt_um_wokwi_465731371445677057
+  page: https://app.tinytapeout.com/shuttles/ttgf26a
+generated: '2026-10-17T23:08:48Z'
+tooling: https://github.com/wafer-space/wafer.space-bench
+index: https://wafer-space-bench.github.io
+branches:
+- about
+- tapeout/tinytapeout/ttgf26a/tt_um_wokwi_465731371445677057
+- upstream/main
